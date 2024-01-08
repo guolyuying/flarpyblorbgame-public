@@ -1,3 +1,4 @@
 # Flarpy Blorb (game)
-https://github.com/guolyuying/flarpyblorbgame-public/assets/149437119/425b3092-b282-4d11-be92-1c08c56bde56
+
+https://github.com/guolyuying/flarpyblorbgame-public/assets/149437119/96bc8b08-e812-42a4-82eb-e9687caa4898
 
